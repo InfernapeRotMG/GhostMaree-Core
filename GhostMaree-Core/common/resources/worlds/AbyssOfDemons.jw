@@ -1,0 +1,12 @@
+﻿{
+	"name":"Abyss",
+	"sbName":"Abyss of Demoms",
+	"isLimbo":false,
+	"persist":false,
+	"difficulty":4,
+	"background":0,
+	"blocking":1,
+	"showDisplays":true,
+	"portals":[1819],
+	"maps":["AbyssofDemons.jm"]
+}

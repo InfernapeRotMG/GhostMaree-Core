@@ -1,0 +1,11 @@
+﻿{
+	"name":"Sprite World",
+	"sbName":"Sprite World",
+	"isLimbo":false,
+	"persist":false,
+	"difficulty":2,
+	"background":0,
+	"showDisplays":true,
+	"portals":[1804],
+	"maps":["Sprite_World_1.jm","Sprite_World_2.jm","Sprite_World_3.jm","Sprite_World_4.jm","Sprite_World_5.jm"]
+}

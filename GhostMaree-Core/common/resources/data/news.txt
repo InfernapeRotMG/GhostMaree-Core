@@ -1,0 +1,33 @@
+[{
+	"slot": 3, 
+	"linkType": 1, 
+	"title": "aye", 
+	"image": "", 
+	"priority": 759, 
+	"linkDetail": "", 
+	"platform": "kabam.com,kongregate,steam,rotmg", 
+	"startTime": 1413334800000, 
+	"endTime": 1914022340000
+}, 
+{
+	"slot": 2, 
+	"linkType": 1, 
+	"title": "In Lucifer We Trust", 
+	"image": "https://i.imgur.com/BZUlScE.png", 
+	"priority": 756, 
+	"linkDetail": "", 
+	"platform": "kabam.com,kongregate,steam,rotmg", 
+	"startTime": 1412730000000, 
+	"endTime": 1913417540000
+}, 
+{
+	"slot": 1, 
+	"linkType": 1, 
+	"title": "Ghost Realms Testing", 
+	"image": "https://i.imgur.com/uKKBXFG.png", 
+	"priority": 757, 
+	"linkDetail": "", 
+	"platform": "kabam.com,kongregate,steam,rotmg", 
+	"startTime": 1413199137000, 
+	"endTime": 1913935940000
+}]

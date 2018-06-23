@@ -1,0 +1,10 @@
+﻿{
+	"name":"Beachzone",
+	"sbName":"Beachzone",
+	"isLimbo":false,
+	"difficulty":-1,
+	"background":0,
+	"showDisplays":true,
+	"portals":[1858],
+	"maps":["Beachzone.wmap"]
+}

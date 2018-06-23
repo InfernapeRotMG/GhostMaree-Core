@@ -1,0 +1,11 @@
+﻿{
+	"name":"Ocean Trench",
+	"sbName":"Ocean Trench",
+	"isLimbo":false,
+	"difficulty":5,
+	"background":0,
+	"blocking":1,
+	"showDisplays":true,
+	"portals":[1840],
+	"maps":["oceantrench.wmap"]
+}

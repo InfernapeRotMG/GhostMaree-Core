@@ -1,0 +1,10 @@
+﻿{
+	"name":"Belladonna's Garden",
+	"sbName":"Belladonna's Garden",
+	"isLimbo":false,
+	"difficulty":5,
+	"background":0,
+	"showDisplays":true,
+	"portals":[8849],
+	"maps":["belladonnasGarden.wmap"]
+}

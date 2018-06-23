@@ -1,0 +1,11 @@
+﻿{
+	"name":"Candyland",
+	"sbName":"Candyland Hunting Grounds",
+	"isLimbo":false,
+	"persist":false,
+	"difficulty":3,
+	"background":0,
+	"showDisplays":true,
+	"portals":[1866],
+	"maps":["CandylandHuntingGrounds.jm"]
+}

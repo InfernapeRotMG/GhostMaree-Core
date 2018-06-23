@@ -1,0 +1,11 @@
+﻿{
+	"name":"Tomb of the Ancients",
+	"sbName":"Tomb of the Ancients",
+	"isLimbo":false,
+	"difficulty":5,
+	"background":0,
+	"blocking":1,
+	"showDisplays":true,
+	"portals":[1836],
+	"maps":["TomboftheAncients.jm"]
+}

@@ -1,0 +1,10 @@
+﻿{
+	"name":"The Shatters",
+	"sbName":"The Shatters",
+	"isLimbo":false,
+	"difficulty":5,
+	"background":0,
+	"showDisplays":true,
+	"portals":[29310],
+	"maps":["ShattersMike.jm"]
+}

@@ -1,0 +1,45 @@
+<MysteryBoxData version = "1408515972.279192">
+	<MysteryBox id = "33" title = "The Sword of the Mad God Box" weight = "-1">
+		<Description></Description>
+		<Contents>8962,3272,3180,4622,4901,3275</Contents>
+		<Price amount="0" currency="0"/>
+		<Image>http://i.imgur.com/WnkWTbQ.png</Image>
+		<Icon></Icon>
+		<StartTime>2014-06-06 14:30:16</StartTime>
+	</MysteryBox>
+	<MysteryBox id = "43" title = "Untiered Box" weight = "-1">
+		<Description></Description>
+		<Contents>0x1411</Contents>
+		<Price amount="0" currency="0"/>
+		<Image>https://lh4.googleusercontent.com/-lSXDgClWpuU/VjgBqgBQk8I/AAAAAAAABc0/MqnXyC-pOhI/w380-h852-no/rotmgutbox.jpg</Image>
+		<Icon></Icon>
+		<StartTime>2014-08-11 14:05:31</StartTime>
+	</MysteryBox>
+	<MysteryBox id = "44" title = "XXX" weight = "0">
+		<Description></Description>
+		<Contents>8615,8616,8617,8618,4691,4947,4684,4940,4625,4955,4689,4956,4700,4644,3276,8608,8609,8610,8611,9055,9052,9054,9053,8962,9015,9016,9017,4687,4692,3180,9042,3293,3284,3107,1802,3183,3119,29836,9061,9060,9063,9062,3275,3180,3138,3269,12290,3176,3177</Contents>
+		<Price amount="0" currency="0"/>
+		<Image></Image>
+		<Icon></Icon>
+		<StartTime>2014-08-14 12:53:41</StartTime>
+	</MysteryBox>
+	<MysteryBox id = "39" title = "The Lair of Draconis Box" weight = "-1">
+		<Description></Description>
+		<Contents>3284,1808,1793,1802,3170,3293,8852</Contents>
+		<Price amount="0" currency="0"/>
+		<Image>http://i.imgur.com/hgRW660.png</Image>
+		<Icon></Icon>
+		<StartTime>2014-06-20 13:56:00</StartTime>
+	</MysteryBox>
+	<MysteryBox id = "25" title = "The Triple Dungeon Mystery Box" weight = "0">
+		<Description></Description>
+		<Contents>1808,3089,3170,3119,1793;1808,3089,3170,3119,1793;1808,3089,3170,3119,1793</Contents>
+		<Price amount="0" currency="0"/>
+		<Image>http://i.imgur.com/odrBR53.png</Image>
+		<Icon></Icon>
+		<StartTime>2014-04-03 13:47:12</StartTime>
+		<Sale price = "375" currency = "0">
+			<End>2014-08-20 23:59:43</End>
+		</Sale>
+	</MysteryBox>
+</MysteryBoxData>
